@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 ;;; Author: Sneha
 =======
-;;; Author: [YOUR NAME HERE]
+;;; Author: Sneha
 >>>>>>> 4ba78d44bb182c1e8f7527356799c0e251795981
 ;;; Date: February 10, 2025
 ;;;======================================================
